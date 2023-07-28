@@ -7,7 +7,7 @@
 1. Clone Github
 
 ```
-git clone
+git clone https://github.com/Nofrisdan/socket-koneksi.git
 ```
 
 2. Masuk ke folder
